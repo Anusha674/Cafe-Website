@@ -85,10 +85,4 @@ cafe-website/
 `-- vite.config.js
 ```
 
-## Screenshots
 
-Screenshots are available in the `screenshots/` folder.
-
-## Repository
-
-GitHub: https://github.com/Anusha674/Cafe-Website
